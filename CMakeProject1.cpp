@@ -10,3 +10,5 @@ int main()
 	cout << "Serin Santhosh" << endl;
 	return 0;
 }
+
+//i do not like to code
